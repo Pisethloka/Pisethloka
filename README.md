@@ -1,15 +1,18 @@
-<h1 align="center">Hi, I'm Loka</h1>
+<h1 align="center">Piseth Loka</h1>
 
 <p align="center">
-IT Engineering Student from Cambodia<br>
-Building modern web applications while learning software engineering.
+  IT Engineering Student • Cambodia
 </p>
 
 <p align="center">
-  <a href="mailto:piseth.loka168@gmail.com">Email</a> •
+Building clean, modern web applications while learning software engineering.
+</p>
+
+<p align="center">
+  <a href="mailto:piseth.loka168@gmail.com">Email</a>
+  ·
   <a href="https://github.com/Pisethloka">GitHub</a>
 </p>
-
 ---
 
 ### About
@@ -34,8 +37,9 @@ Building modern web applications while learning software engineering.
 ### GitHub Stats
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pisethloka&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pisethloka&layout=compact&hide_border=true&theme=transparent" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pisethloka&show_icons=true&theme=transparent&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pisethloka&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
