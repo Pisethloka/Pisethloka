@@ -1,17 +1,7 @@
 <h1 align="center">Piseth Loka</h1>
 
 <p align="center">
-  IT Engineering Student • Cambodia
-</p>
-
-<p align="center">
-Building clean, modern web applications while learning software engineering.
-</p>
-
-<p align="center">
-  <a href="mailto:piseth.loka168@gmail.com">Email</a>
-  ·
-  <a href="https://github.com/Pisethloka">GitHub</a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Piseth+Loka;IT+Engineering+Student;React+%7C+Java+%7C+Tailwind+CSS;Always+learning+something+new." />
 </p>
 ---
 
