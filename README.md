@@ -26,10 +26,13 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pisethloka&show_icons=true&theme=github_dark&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Pisethloka&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pisethloka&layout=compact&theme=github_dark&hide_border=true)
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pisethloka&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" />
+</p>
 ---
 
 <p align="center">
