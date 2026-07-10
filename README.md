@@ -16,10 +16,10 @@
 
 ## About Me
 
-- 🎓 IT Engineering student from Cambodia
-- 📚 Currently learning React, Tailwind CSS, Java, SQL, and Object-Oriented Analysis & Design (OOAD)
-- 💻 Enjoy building websites and exploring modern frontend development
-- 🌱 Working toward becoming a Full-Stack Developer through continuous learning and personal projects
+-  IT Engineering student from Cambodia
+-  Currently learning React, Tailwind CSS, Java, SQL, and Object-Oriented Analysis & Design (OOAD)
+-  Enjoy building websites and exploring modern frontend development
+-  Working toward becoming a Full-Stack Developer through continuous learning and personal projects
 
 ---
 
@@ -33,9 +33,9 @@
 
 ## Current Projects
 
-- 🌐 Personal Portfolio
-- 🏝️ Tourism Website
-- 🎨 VS Code Themes
+-  Personal Portfolio
+-  Tourism Website
+-  VS Code Themes
 
 ---
 
